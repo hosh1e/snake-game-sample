@@ -1,6 +1,6 @@
 # !snake game
 
-this project is a sample snake game written in Python using pygame and pygame-menu libraries
+this project is a sample snake game written in python using pygame and pygame-menu libraries
 
 ## prerequisites
 
