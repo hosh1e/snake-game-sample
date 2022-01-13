@@ -6,7 +6,6 @@ this project is a sample snake game written in python
 
 - pygame
 - pygame-menu
-- hanson Bold font
 
 ## built with
 
