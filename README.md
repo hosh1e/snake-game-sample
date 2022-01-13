@@ -1,14 +1,14 @@
-# Snake Game
+# !snake game
 
-This project is a sample snake game written in Python using pygame and pygame-menu libraries.
+this project is a sample snake game written in Python using pygame and pygame-menu libraries
 
-## Prerequisites
+## prerequisites
 
 - pygame
 - pygame-menu
-- Hanson Bold font
+- hanson Bold font
 
-## Built With
+## built with
 
 https://pygame-menu.readthedocs.io/en/latest/index.html
 
